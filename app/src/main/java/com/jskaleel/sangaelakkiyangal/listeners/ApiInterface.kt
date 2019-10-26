@@ -14,6 +14,9 @@ interface ApiInterface {
     @GET("master/pathinenkilkanakku.json")
     fun getPathinenkilkanakku(): Observable<MutableList<ResponseModel.CategoryItemResponse>>
 
-    @GET("master/paththuppattu.json")
+    @GET("master/pathuppattu.json")
+    fun getPaththuppattu(): Observable<MutableList<ResponseModel.CategoryItemResponse>>
+    
+    @GET("master/thirukural.json")
     fun getPaththuppattu(): Observable<MutableList<ResponseModel.CategoryItemResponse>>
 }
