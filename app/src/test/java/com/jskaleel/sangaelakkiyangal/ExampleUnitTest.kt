@@ -7,7 +7,7 @@ package com.jskaleel.sangaelakkiyangal
  */
 class ExampleUnitTest {
     @Test
-    fun addition_isCorrect() {
-        assertEquals(4, 2 + 2)
+    fun subraction_isCorrect() {
+        assertEquals(5, 10-5)
     }
 }
