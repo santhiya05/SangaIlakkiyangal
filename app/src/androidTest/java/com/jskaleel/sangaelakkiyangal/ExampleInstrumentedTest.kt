@@ -1,4 +1,4 @@
-package com.jskaleel.sangaelakkiyangal
+ import package com.jskaleel.sangaelakkiyangal
 
 /**
  * Instrumented test, which will execute on an Android device.
